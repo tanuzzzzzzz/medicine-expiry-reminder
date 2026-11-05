@@ -79,7 +79,7 @@ conn.execute("""
 # APPLICATION HEADER
 # -----------------------------
 
-st.title("💊 Medicine Expiry Reminder")
+st.title(" Medicine Expiry Reminder")
 
 st.caption("Manage your medicines and keep track of expiry dates.")
 
